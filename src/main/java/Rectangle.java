@@ -12,6 +12,7 @@ public class Rectangle extends Figura {
         this.a = altura;
     }
 
+
     public double area(){
         this.calArea = b*a;
         return calArea;

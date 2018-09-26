@@ -3,7 +3,7 @@ public class Main {
         //I create a rectangle class
         Rectangle rectangle1 = new Rectangle(3,4);
         Cercle cercle1 = new Cercle(4);
-        Triangle triangle1 = new Triangle(2,3);
+        Triangle triangle1 = new Triangle(3,3);
         Quadrat quadrat1 = new Quadrat(3);
 
         Figura[] fig = new Figura[4];
